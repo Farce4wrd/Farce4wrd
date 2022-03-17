@@ -5,6 +5,7 @@
 - 📫 You can reach me anytime through here on linkedIn
 - Just added a file for git activity
 - Just added a second line for git activity
+- -Ha! This line is added from the remote by ME
 
 - Watch out! I'm a message from local
 
