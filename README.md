@@ -4,6 +4,7 @@
 - 💞️ I’m looking for an opportunity in this field.
 - 📫 You can reach me anytime through here on linkedIn
 - Just added a file for git activity
+- Just added a second line for git activity
 
 <!---
 Farce4wrd/Farce4wrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
